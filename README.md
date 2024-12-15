@@ -9,7 +9,7 @@
 #### Utility-First Framework
 
 - Every class in Tailwind does one specific thing: set a font size, add padding, adjust margin, etc.
-- Example: `p-4` adds padding of 1rem (16 pixels), `text-xl` sets font-size.
+- Example: `p-4` adds padding of 1rem (16 pixels), `text-xl` sets font size.
 
 #### Customization and Configurability
 
@@ -47,7 +47,7 @@
    - Control margins and paddings.
    - `px-2`, `py-8`, `m-4`, etc.
 2. Typography
-   - `text-lg` for font-size, `font-bold` for weight, `leading-relaxed` for line height.
+   - `text-lg` for font size, `font-bold` for weight, `leading-relaxed` for line height.
 3. Colors and Backgrounds
    - `bg-red-500`, `text-white`, `hover:bg-indigo-700`.
 4. Borders and Shadows
@@ -74,7 +74,7 @@ Tailwind CSS makes flex-box and grid simple by providing intuitive utilities.
 
 #### Mobile-First Approach
 
-- By default, Tailwind CSS utilities apply to all screen sizes. Add breakpoints to target larger screens.
+- By default, Tailwind CSS utilities apply to all screen sizes. Add break-points to target larger screens.
 
 #### Break-points
 
