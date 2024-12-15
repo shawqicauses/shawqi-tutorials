@@ -1,4 +1,4 @@
-<!-- DONE REVIEWING -->
+<!-- REVIEWED - 01 -->
 
 # Tailwind CSS Crash Course
 
@@ -84,6 +84,6 @@ Tailwind CSS makes flex-box and grid simple by providing intuitive utilities.
 - `xl` (`1280` pixels and larger).
 - `2xl` (`1536` pixels and larger).
 
-#### Live Coding
+### Live Coding
 
 **_By Shawqi Hatem._**
