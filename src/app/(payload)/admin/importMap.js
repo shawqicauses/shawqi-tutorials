@@ -1,2 +1,0 @@
-// REVIEWED
-export const importMap = {};
